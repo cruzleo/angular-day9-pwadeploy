@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --case-href 'angular-day9-pwadeploy'",
+    "build": "ng build --base-href angular-day9-pwadeploy",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
